@@ -1,0 +1,31 @@
+p{
+	color:#119911;
+	background-color:red;
+	font-size:18pt;
+	font-family:verdana;
+	font-style:italic;
+	font-weight:700;
+	text-decoration:underline;
+}
+h1{
+color:purple;
+font-size:40pt;
+text-transform:uppercase;
+letter-spacing:10pt;
+}
+table
+{
+	border-color:red;
+	font-size:20pt;
+	color:blue;
+	text-align:center;
+	border-top-color:purple;
+	border-left-color:yellow;
+	border-right-color:black;
+	border-bottom-color:green;	
+}
+ol
+{
+	color:green;
+		
+}
